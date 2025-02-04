@@ -1,0 +1,15 @@
+/workspaces/Module4Lab-2505/module4lab/bin/Debug/net8.0/module4lab
+/workspaces/Module4Lab-2505/module4lab/bin/Debug/net8.0/module4lab.deps.json
+/workspaces/Module4Lab-2505/module4lab/bin/Debug/net8.0/module4lab.runtimeconfig.json
+/workspaces/Module4Lab-2505/module4lab/bin/Debug/net8.0/module4lab.dll
+/workspaces/Module4Lab-2505/module4lab/bin/Debug/net8.0/module4lab.pdb
+/workspaces/Module4Lab-2505/module4lab/obj/Debug/net8.0/module4lab.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Module4Lab-2505/module4lab/obj/Debug/net8.0/module4lab.AssemblyInfoInputs.cache
+/workspaces/Module4Lab-2505/module4lab/obj/Debug/net8.0/module4lab.AssemblyInfo.cs
+/workspaces/Module4Lab-2505/module4lab/obj/Debug/net8.0/module4lab.csproj.CoreCompileInputs.cache
+/workspaces/Module4Lab-2505/module4lab/obj/Debug/net8.0/module4lab.sourcelink.json
+/workspaces/Module4Lab-2505/module4lab/obj/Debug/net8.0/module4lab.dll
+/workspaces/Module4Lab-2505/module4lab/obj/Debug/net8.0/refint/module4lab.dll
+/workspaces/Module4Lab-2505/module4lab/obj/Debug/net8.0/module4lab.pdb
+/workspaces/Module4Lab-2505/module4lab/obj/Debug/net8.0/module4lab.genruntimeconfig.cache
+/workspaces/Module4Lab-2505/module4lab/obj/Debug/net8.0/ref/module4lab.dll
